@@ -29,7 +29,7 @@
 
 ## Video Presentation
 
-[![Video Presentation](https://www.youtube.com/watch?v=fo7SDBQ5WX0/0.jpg)](https://www.youtube.com/watch?v=fo7SDBQ5WX0)
+[![Video Presentation](https://img.youtube.com/vi/fo7SDBQ5WX0/0.jpg)](https://www.youtube.com/watch?v=fo7SDBQ5WX0)
 
 
 <br>
